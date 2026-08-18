@@ -1,0 +1,11 @@
+{
+  "name": "Short Reel",
+  "description": "15-30 second high-quality ad-free short video platform with local feed algorithm, seamless phone/Gmail auth, profile customization, and video creation studio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
